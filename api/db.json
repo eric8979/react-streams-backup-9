@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Check out my stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "no dispatch",
+      "id": 2
+    },
+    {
+      "title": "New stream with StreamForm.js",
+      "description": "hololololo!!!",
+      "id": 4
+    }
+  ]
+}
